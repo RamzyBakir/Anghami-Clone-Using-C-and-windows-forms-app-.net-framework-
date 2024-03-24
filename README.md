@@ -36,9 +36,9 @@ The project utilizes linked lists, queues, and stacks as the backbone data struc
 ## Contribution
 
 Our team:
-  - @RamzyBakir
-  - @YahiaSonbol
-  - @medo3alaa
+  - [@RamzyBakir](https://github.com/RamzyBakir)
+  - [@YahiaSonbol](https://github.com/YahiaSonbol)
+  - [@medo3alaa](https://github.com/medo3alaa)
   - @YoussefHazem
   - @OmarElBayoumi
 
