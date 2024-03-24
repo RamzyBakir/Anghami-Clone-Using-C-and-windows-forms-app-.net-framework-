@@ -34,7 +34,6 @@ The project utilizes linked lists, queues, and stacks as the backbone data struc
 ![createplaylist](createyourplaylistmenu.jpg)
 
 ## Contribution
-
 Our team:
   - [@RamzyBakir](https://github.com/RamzyBakir)
   - [@YahiaSonbol](https://github.com/YahiaSonbol)
